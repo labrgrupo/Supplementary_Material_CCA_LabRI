@@ -148,14 +148,6 @@ The present study focuses on the **LabRI estimation workflow and comparative per
 
 </div>
 
-## Citation
-
-Cite the **LabRI article** identified above and the original dataset sources linked in the tables. For simulated data, acknowledge the `refineR` package. Observe each source's licensing and attribution terms.
-
-For the supplementary materials, include the repository URL and the **release version** used:
-
-> **LabRI supplementary material.** Available from: https://github.com/labrgrupo/Supplementary_Material_CCA_LabRI
-
 ## Contact
 
 | Contact | Email |
