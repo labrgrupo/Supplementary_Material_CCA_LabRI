@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1414769126.svg)](https://doi.org/10.5281/zenodo.23463325)
+
 <div align="center">
 
 <img src="https://img.shields.io/badge/CLINICA%20CHIMICA%20ACTA-SUPPLEMENTARY%20MATERIAL-555BA6?style=for-the-badge&amp;labelColor=333333" alt="Clinica Chimica Acta — Supplementary Material" />
